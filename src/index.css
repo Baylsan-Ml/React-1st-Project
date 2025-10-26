@@ -27,6 +27,11 @@ h1 {
   font-size: 4em;
   line-height: 1.1;
 }
-
+h2{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: var(--subColor);
+    font-weight: 700;
+}
 
 
