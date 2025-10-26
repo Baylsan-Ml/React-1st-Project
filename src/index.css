@@ -1,0 +1,31 @@
+body{
+  padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+:root {
+ --mainColor: #6ad3bf;
+ --subColor: #2c3e50;
+}
+.mainColor{
+  color: var(--mainColor);
+}
+.subColor{
+  color: var(--subColor);
+}
+.mainColor-Bg{
+  background-color: var(--mainColor);
+}
+.subColor-Bg{
+  background-color: var(--subColor);
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+
+

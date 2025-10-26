@@ -1,0 +1,15 @@
+.navbar{
+    height: 104px;
+   
+}
+.navbar a{
+    color: #fff;
+}
+
+.navbar a:hover{
+    color: var(--mainColor);
+    border-radius: 4px;
+}
+.navbar a .navbar-brand:hover{
+    color: #fff;
+}
