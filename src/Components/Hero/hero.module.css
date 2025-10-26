@@ -2,3 +2,18 @@
     height: 97vh;
     background-color: #1abc9c;
 }
+.heroSec img{
+    margin-top: 150px;
+    overflow: hidden;
+}
+.hero-img{
+    padding-top: 500px;
+}
+.heroSec h1{
+    font-size: 4rem;
+    line-height: 3.5rem;
+    font-weight: 700;
+}
+.heroPara{
+    font-size: 1.5rem;
+}

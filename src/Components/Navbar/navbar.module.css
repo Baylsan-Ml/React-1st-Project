@@ -4,12 +4,17 @@
 }
 .navbar a{
     color: #fff;
+    font-weight: 700;
 }
 
 .navbar a:hover{
     color: var(--mainColor);
     border-radius: 4px;
 }
-.navbar a .navbar-brand:hover{
+.navbar .navbarBrand{
+    font-weight: 700;
+    font-size: 1.75em;
+}
+.navbar  .navbarBrand:hover{
     color: #fff;
 }

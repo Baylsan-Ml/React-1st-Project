@@ -5,7 +5,7 @@ function Navbar(){
     return <>
         <nav className= {`${style.navbar} subColor-Bg navbar navbar-expand-lg text-uppercase fixed-top`}>
   <div className={`container`}>
-    <a className={`navbar-brand`} href="#">START A BOOTSTRAP</a>
+    <a className={`${style.navbarBrand} navbar-brand`} href="#">START A BOOTSTRAP</a>
     <button className={`navbar-toggler`} type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className={`navbar-toggler-icon`}></span>
     </button>
