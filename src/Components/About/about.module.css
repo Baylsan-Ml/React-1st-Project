@@ -1,0 +1,15 @@
+.aboutSec{
+    background-color: #1abc9c;
+}
+.aboutSec h2{
+    color: #fff;
+}
+.aboutSec p{
+    font-size: 1.25rem;
+    font-weight: 400;
+   text-align: justify;
+}
+.downlodBtn{
+    padding: 20px 35px;
+    font-size: 20px;
+}
