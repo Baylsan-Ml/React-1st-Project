@@ -1,0 +1,21 @@
+.footer{
+    background-color: var(--subColor);
+}
+.footer h4{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.footer p{
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.aboutFreelancer a{
+    color: var(--bs-link-color);
+    text-decoration: underline;
+}
+
+.copyRight{
+    background-color: #1a252f;
+}
