@@ -1,19 +1,39 @@
 .heroSec{
+    position: relative;
     height: 97vh;
     background-color: #1abc9c;
 }
-.heroSec img{
-    margin-top: 150px;
-    overflow: hidden;
+.heroContent{
+    position: absolute;
+    top: 25%;
 }
-.hero-img{
-    padding-top: 500px;
+.heroSec img{
+    width: 25%;
+}
+@media screen and (max-width:1200px){
+    .heroContent{
+    position: absolute;
+    top: 15%;
+}
+.heroSec img{
+    width: 35%;
+}
 }
 .heroSec h1{
     font-size: 4rem;
     line-height: 3.5rem;
     font-weight: 700;
 }
+@media screen and (max-width:610px){
+    .heroSec h1{
+    font-size: 3rem;
+}
+}
 .heroPara{
     font-size: 1.5rem;
+}
+@media screen and (max-width:610px){
+    .heroSec .heroPara1{
+    font-size: 0.9rem;
+}
 }

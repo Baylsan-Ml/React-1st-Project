@@ -1,6 +1,6 @@
 .navbar{
+    position: sticky;
     height: 104px;
-   
 }
 .navbar a{
     color: #fff;
@@ -14,6 +14,11 @@
 .navbar .navbarBrand{
     font-weight: 700;
     font-size: 1.75em;
+}
+@media screen and (max-width:610px){
+    .navbar .navbarBrand{
+    font-size: 1.5em;
+}
 }
 .navbar  .navbarBrand:hover{
     color: #fff;

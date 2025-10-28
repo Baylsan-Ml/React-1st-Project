@@ -12,23 +12,23 @@ function Portfolio(){
         <h2 className="text-uppercase py-5">Portfolio</h2>
         <div className="container ">
             <div className="row justify-content-center ">
-                <div className="col-md-4">
+                <div className="col-md-4 col-sm-6">
                     <img src={cabin} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
-                <div className="col-md-4">
-                    <img src={cake} className='w-100 rounded-2' alt=".." />
+                <div className="col-md-4 col-sm-6">
+                    <img src={cake} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
-                <div className="col-md-4">
-                    <img src={circus} className='w-100 rounded-2' alt=".." />
+                <div className="col-md-4 col-sm-6">
+                    <img src={circus} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
-                <div className="col-md-4">
-                    <img src={game} className='w-100 rounded-2' alt=".." />
+                <div className="col-md-4 col-sm-6">
+                    <img src={game} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
-                <div className="col-md-4">
-                    <img src={safe} className='w-100 rounded-2' alt=".." />
+                <div className="col-md-4 col-sm-6">
+                    <img src={safe} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
-                <div className="col-md-4">
-                    <img src={submarine} className='w-100 rounded-2' alt=".." />
+                <div className="col-md-4 col-sm-6">
+                    <img src={submarine} className='w-100 mb-5 rounded-2' alt=".." />
                 </div>
                 
             </div>
