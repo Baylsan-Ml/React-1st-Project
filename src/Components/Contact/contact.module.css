@@ -1,0 +1,24 @@
+.contactForm{
+    position: relative;
+    font-size: 1.3rem;
+}
+.contactForm input{
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-radius: 0;
+}
+.contactForm textarea{
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-radius: 0;
+}
+.contactFormBtn{
+    width: 17%;
+    position: absolute;
+    left: 0;
+}
+.contactFormBtn:hover{
+    background-color: var(--subColor);
+}
