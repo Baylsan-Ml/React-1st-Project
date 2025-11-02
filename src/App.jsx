@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Navbar from "./Components/Navbar/avbar.jsx";
+import Navbar from "./Components/Navbar/Navbar.jsx";
 import Hero from "./Components/Hero/Hero.jsx";
 import About from "./Components/About/About.jsx";
 import Contact from "./Components/Contact/Contact.jsx";
