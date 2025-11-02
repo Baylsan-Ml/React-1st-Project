@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Home from './Components/Home/Home.jsx';
+import Home from './Components/HomeX/Home.jsx';
 import Navbar from "./Components/Navbar/Navbar.jsx";
 import Hero from "./Components/Hero/Hero.jsx";
 import About from "./Components/About/About.jsx";
