@@ -1,5 +1,5 @@
 
-import style from './../../Components/About/about.module.css';
+import style from './about.module.css';
 
 function About(){
 

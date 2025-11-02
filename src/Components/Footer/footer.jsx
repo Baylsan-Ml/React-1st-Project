@@ -18,7 +18,7 @@ function Footer(){
                     <a href="#" className='border border-2 rounded-circle p-2 py-2'><i className="fa-brands fa-facebook-f fa-xl" style={{ color: "#ffffff" }}></i></a>
                     <a href="#" className='border border-2 rounded-circle p-2 py-2'><i className="fa-brands fa-twitter fa-xl" style={{ color: "#ffffff" }}></i></a>
                     <a href="#" className='border border-2 rounded-circle p-2 py-2'><i className="fa-brands fa-linkedin-in fa-xl" style={{ color: "#ffffff" }}></i></a>
-                    <a href="#" className='border border-2 rounded-circle p-2 py-2'><i className="fa-solid fa-globe fa-xl" style="color: #ffffff;" style={{ color: "#ffffff" }}></i></a>
+                    <a href="#" className='border border-2 rounded-circle p-2 py-2'><i className="fa-solid fa-globe fa-xl"  style={{ color: "#ffffff" }}></i></a>
                     </div>
                 </div>
 
