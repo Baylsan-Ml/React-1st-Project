@@ -42,7 +42,7 @@ function Contact(){
   };
     return <section className={` py-5 text-center`}>
         <h2 className="text-uppercase py-5">Contact me</h2>
-        <div className="container">
+        <div className="container pb-5">
             <div className="row justify-content-center">
                 <div className="col-md-7">
                     <form className={`${style.contactForm}`}>
